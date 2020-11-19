@@ -55,7 +55,7 @@ Esta página contém a documentação sobre o produto, seu gerenciamento e desen
 </div>
 
 <div class="col-sm container-img">
-        <img src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/sara.jpeg" alt="Sara Campos" class="img-thumbnail image">
+        <img src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/sara.jpg" alt="Sara Campos" class="img-thumbnail image">
         <div class="middle">
             <a href="https://github.com/saracampss" style="text-decoration:none">
                 <div class="text">
