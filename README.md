@@ -15,6 +15,6 @@ Esta página contém a documentação sobre o produto, seu gerenciamento e desen
 ![Giovana Dionisio](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/giovana.jpeg)
 ![Hérya](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/herya.jpeg)
 ![Lorrany Oliveira](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/lorrany.jpeg)
-![Sara Campos](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/sara.jpeg)
+![Sara Campos](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/sara.jpg)
 
  
