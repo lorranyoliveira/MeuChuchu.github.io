@@ -11,9 +11,11 @@ A equipe se reuniu para definir o escorpo do projeto, onde:
 
 Definição de metodologia
 - Scrum por que algumas integrantes ja usou essa metodologia
+
 Envio da proposta 
 - Escolha do nome do projeto
 - Definição do dia para a elaboração da proposta
+
 Criação de um driver compartilhado para conteúdos
 
 ## Sprint 1
