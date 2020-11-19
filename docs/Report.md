@@ -177,13 +177,15 @@ Pareamentos:
 
 ### Review
 
-- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arruma. Ela e conjunto com a Lorrany arrumou o site para ser entregue para o professor.
+- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arruma. Ela e conjunto com a Lorrany arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
 
-- Giovana 
+- Giovana:
 
-- Hérya
+- Hérya:
 
-- Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar fez a issue de cadastro e login no front-end e ajudou no site. 
+- Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar fez a issue de cadastro e login no front-end e ajudou no site. Revisou o Documento de Arquitetura com a Daniela.
+
+- Sara:
 
 
 
