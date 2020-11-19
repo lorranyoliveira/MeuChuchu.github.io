@@ -165,6 +165,9 @@ Todos os membros da equipe prepararam suas máquinas com as instalações necess
 
 - Sara: Fez a parte do documento de arquitetura, e fez a dockerização.
 
+### Conclução
+Sprint concluida no tempo determinado.
+
 
 ## Sprint 7
 
@@ -179,13 +182,16 @@ Pareamentos:
 
 - Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arruma. Ela e conjunto com a Lorrany arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
 
-- Giovana:
+- Giovana:Ajudou no problema do gerenciamento de bancos de dados.
 
-- Hérya:
+- Hérya:Ela percebeu outro erro encontrado no sistema de gerenciamento de banco de dados e junto com Giovana e Sara tentaram arruma. Conseguiram e para teste criaram um usuario.
 
 - Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar fez a issue de cadastro e login no front-end e ajudou no site. Revisou o Documento de Arquitetura com a Daniela.
 
-- Sara:
+- Sara: Ajudou no problema do gerenciamento de bancos de dados.
+
+### Conclução
+Sprint não foi concluida por causa dos problemas encontrados a equipe continuará com essa issue até conseguir concluir tudo.
 
 
 
