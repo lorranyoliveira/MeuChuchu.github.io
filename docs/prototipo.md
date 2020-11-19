@@ -1,1 +1,6 @@
-![Tela de login](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo01.png.png)
+![Tela de login e cadastro](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo01.png.png)
+![Tela de login e cadastro](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo03.png.png)
+![Tela de perfil ](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo02.png.png)
+![Tela de ajuda ](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo04.png.png)
+![Tela da banca](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo06.png.png)
+![Tela de localização ](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo05.png.png)
