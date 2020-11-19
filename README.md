@@ -11,7 +11,7 @@ Esta página contém a documentação sobre o produto, seu gerenciamento e desen
 
 ## Equipe
  
-![Daniela Soares]()
+![Daniela Soares](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/eu.jpg)
 ![Giovana Dionisio]()
 ![Hérya]()
 ![Lorrany Oliveira]()
