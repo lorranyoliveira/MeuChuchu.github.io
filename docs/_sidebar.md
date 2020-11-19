@@ -3,5 +3,5 @@
 - [Protótipo](/prototipo.md)
 - [Roadmap](/roadmap.md)
 - [Backlog](/backlog.md)
-- [Planejamneto de projeto](/Planejamento_de_Projeto.md)
+- [Planejameto do projeto](/Planejamento_de_Projeto.md)
 
