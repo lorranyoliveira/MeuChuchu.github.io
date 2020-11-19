@@ -1,3 +1,4 @@
+![MeuChuchu](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/styles/icons/meuchuchu.png)
 # MeuChuchu
 <p aling= "justify"> &emsp;&emsp; 
 Meu chuchu é um aplicativo que tem como objetivo ajudar feirantes a terem mais visibilidade na procura de produtos alimentícios oriundos de feiras regionais e, com isso, aumentar suas vendas. </p>
