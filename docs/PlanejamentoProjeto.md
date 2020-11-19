@@ -263,8 +263,9 @@ O resultado gerado será um cronograma condizente com o tempo que a equipe possu
 
 ### Segue abaixo o cronograma definido pela equipe:
 
-- [My First Board](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/My%20First%20Board.jpg)
-- [RodMap](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/roadmap.png)
+![My First Board](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/My%20First%20Board.jpg)
+![Roadmap](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/roadmap.png)
+
 
 ### Sprint 6
 - Objetivo:
