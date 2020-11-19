@@ -16,3 +16,6 @@
 
 ### - Telas de localização 
 ![Tela de localização ](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo05.png.png)
+
+### - Tela de favoritos 
+![Tela de favoritos](https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/prototipo07.png)
