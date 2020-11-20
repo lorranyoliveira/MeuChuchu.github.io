@@ -167,10 +167,12 @@ Todos os membros da equipe prepararam suas máquinas com as instalações necess
 - Sara: Fez a parte do documento de arquitetura, e fez a dockerização.
 
 ### Conclução
-Sprint concluida no tempo determinado.
+Sprint concluida no tempo determinado.  
+### Resultados
+<img alt = "Escolha de Perfil" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/s6_escolha_de_perfil.jpg" width = "200"/>
+<img alt = "Escolha de Perfil" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/s6_visualizar_dados.jpg" width = "200"/>
 
-
-## Sprint 7 (11/11 - *)
+## Sprint 7 (11/11 - _Ainda em aberto_)
 
 ### Planning
 
