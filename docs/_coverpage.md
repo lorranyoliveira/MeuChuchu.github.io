@@ -1,3 +1,3 @@
 ![Meuchuchu](/style/icons/meuchuchu.png)
 
-[Meuchuchu](README.md)
+[Vamos Começar](README.md)
