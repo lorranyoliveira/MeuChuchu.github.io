@@ -22,6 +22,7 @@ Esta página contém a documentação sobre o produto, seu gerenciamento e desen
         </div>
     </div>
 
+
 <div class="col-sm container-img">
         <img src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/giovana.jpeg" alt="Giovana Dionisio" class="img-thumbnail image">
         <div class="middle">
@@ -32,6 +33,7 @@ Esta página contém a documentação sobre o produto, seu gerenciamento e desen
         </a>
     </div>
 </div>
+<div></div>
 <div class="col-sm container-img">
         <img src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/herya.jpeg" alt="Hérya" class="img-thumbnail image">
         <div class="middle">

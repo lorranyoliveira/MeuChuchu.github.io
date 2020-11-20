@@ -25,7 +25,7 @@ text-decoration:none;
 .image {
     opacity: 1;
     display: block;
-    width: 80%;
+    width: 50%;
     height: auto;
     transition: .5s ease;
     backface-visibility: hidden;
@@ -61,13 +61,3 @@ text-decoration:none;
     background-repeat: repeat-x;
     text-decoration: none;
 }
-<div class="col-sm container-img">
-        <img src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/eu.jpg" alt="Daniela Soares" class="img-thumbnail image">
-        <div class="middle">
-            <a href="https://github.com/daniso123" style="text-decoration:none">
-                <div class="text">
-                Daniela SOares
-                </div>
-            </a>
-        </div>
-    </div>
