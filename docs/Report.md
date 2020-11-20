@@ -1,7 +1,7 @@
-#Sprint
+# Sprints
 
 
-## Sprint 0
+## Sprint 0 (16/09 - 23/09)
 
 A equipe se reuniu para definir o escorpo do projeto, onde:
 - Definiu onde partir
@@ -10,7 +10,7 @@ A equipe se reuniu para definir o escorpo do projeto, onde:
 - aplicativo de visibilidade de lojas
 
 Definição de metodologia
-- Scrum por que algumas integrantes ja usou essa metodologia
+- Scrum por que algumas integrantes já usarem essa metodologia
 
 Envio da proposta 
 - Escolha do nome do projeto
@@ -18,7 +18,7 @@ Envio da proposta
 
 Criação de um driver compartilhado para conteúdos
 
-## Sprint 1
+## Sprint 1 (23/09 - 07/10)
 ### Apresentação sobre Design de Software
 O professor enviou por email uma atividade de uma apresentação que cada equipe precisava fazer no dia 1 de outubro, por isso começamos a reunião dividindo cada tópico descrito na atividade. A divisão ficou da seguinte forma:
 
@@ -37,7 +37,7 @@ Após um email e que o professor detalhou o que precisava na proposta, a equipe 
 
 
 
-## Sprint 2
+## Sprint 2 (14/10 - 21/10)
 
 Criação do protótipo na plaforma Figma, onde:
 
@@ -60,7 +60,7 @@ Foi definido que a reformulação do protótipo deve ser realizada até a reuni�
 Definiu-se que, no sábado (17/10), iniciaria-se a construção do Documento de Visão. A equipe irá, em conjunto, definir as ideias base de cada tópico do documento. Posteriormente, cada membro do grupo desenvolverá melhor as ideias que lhe forem atribuídas.	
 
 
-## Sprint 3
+## Sprint 3 (21/10 - 24/10)
 
 ### Documento de Visão
 Delimitação de tópicos e divisão dos tópicos entre integrantes do grupo:
@@ -117,9 +117,9 @@ Delimitação de tópicos e divisão dos tópicos entre integrantes do grupo:
      Restrições
 
 
-## Sprint 4 
+## Sprint 4 (24/10 - 28/10)
 
-###  PLANEJAMENTO DO PROJETO
+###  Planejamento do Projeto (TE1)
 Divisão das partes:
 
 - Daniela: Requisitos
@@ -128,7 +128,7 @@ Divisão das partes:
 - Lorrany: GCS
 - Sara: Testes
 
-## Sprint 5
+## Sprint 5 (28/10 - 04/11)
 
 ### Requisitos
 A equipe se reuniu para fazer o recolhimento de requisitos necessarios para criação do Backlog.
@@ -144,15 +144,14 @@ A equipe planejou o que cada uma ia fazer durante a proxima sprint. Tudo está d
 - Lorrany: Introdução
 - Sara: Visão de casos de uso
 
-## Sprint 6
+## Sprint 6 (04/11 - 11/11)
 ### Planning 
 
 A equipe decidiu fazer pareamentos para que houvesse melhor redimento de produção, os pareamentos ficou:
 
 - Daniela e Hérya: A issue esclhida foi do Front-end onde as duas fizeram a tela de escolha de perfil.
 - Daniela e Lorrany: Foi decidiu a issue de Front-end onde a Daniela ajudou na criação da tela de perfil.
-
-Sara e Giovana: A duas ficaram responsaveis por dockerizar todo o ambiente do Back-end. 
+- Sara e Giovana: A duas ficaram responsaveis por dockerizar todo o ambiente do Back-end. 
 
 ### Review
 Todos os membros da equipe prepararam suas máquinas com as instalações necessárias à construção do frontend da aplicação. Assim, todas as integrantes contam com as mesmas versões de pacotes e frameworks, tais como yarn e expo.
@@ -171,29 +170,29 @@ Todos os membros da equipe prepararam suas máquinas com as instalações necess
 Sprint concluida no tempo determinado.
 
 
-## Sprint 7
+## Sprint 7 (11/11 - *)
 
 ### Planning
 
 Pareamentos:
 - Daniela Lorrany: A issue escolhida para essa sprint foi a criação do cadastro de usuario e o login no back-end.
-- Daniela e Giovana: A issue foi e de remoção de produtos das bancas.
+- Daniela e Giovana: A issue foi de criação e de remoção de produtos das bancas.
 - Sara e Hérya: Issue de criação de cadastro de bancas.
 
 ### Review
 
-- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arruma. Ela e conjunto com a Lorrany arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
+- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arrumar. Ela em conjunto com a Lorrany arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
 
 - Giovana:Ajudou no problema do gerenciamento de bancos de dados.
 
-- Hérya:Ela percebeu outro erro encontrado no sistema de gerenciamento de banco de dados e junto com Giovana e Sara tentaram arruma. Conseguiram e para teste criaram um usuario.
+- Hérya:Ela percebeu outro erro encontrado no sistema de gerenciamento de banco de dados e junto com Giovana e Sara tentaram arrumar. Conseguiram e para teste criaram um usuario.
 
 - Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar fez a issue de cadastro e login no front-end e ajudou no site. Revisou o Documento de Arquitetura com a Daniela.
 
 - Sara: Ajudou no problema do gerenciamento de bancos de dados.
 
 ### Conclução
-Sprint não foi concluida por causa dos problemas encontrados a equipe continuará com essa issue até conseguir concluir tudo.
+Sprint não foi concluida por causa dos problemas encontrados, a equipe continuará com essa issue até conseguir concluir tudo.
 
 
 
