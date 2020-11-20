@@ -3,20 +3,20 @@
 
 ## Sprint 0 (16/09 - 23/09)
 
-A equipe se reuniu para definir o escorpo do projeto, onde:
-- Definiu onde partir
+A equipe se reuniu para definir o escopo do projeto, onde:
+- Definiu de onde partir
 - brainstorming de ideias
 - como ajudar as pessoas na pandemia
 - aplicativo de visibilidade de lojas
 
 Definição de metodologia
-- Scrum por que algumas integrantes já usarem essa metodologia
+- Scrum, pois algumas integrantes já usam essa metodologia
 
 Envio da proposta 
 - Escolha do nome do projeto
 - Definição do dia para a elaboração da proposta
 
-Criação de um driver compartilhado para conteúdos
+Criação de um drive compartilhado para conteúdos
 
 ## Sprint 1 (23/09 - 07/10)
 ### Apresentação sobre Design de Software
@@ -33,7 +33,7 @@ O professor enviou por email uma atividade de uma apresentação que cada equipe
 - Sara: apresente a disciplina de design diante da perspectiva ágil, por exemplo, SAFe.
 
 ### Proposta de Projeto
-Após um email e que o professor detalhou o que precisava na proposta, a equipe Themyscira decidiu reformular a proposta de projeto. Foi incluído nela a definição do problema a ser resolvido que depois de muita discussão decidimos focar nas dificuldades em que os agricultores têm para vender seus produtos e com isso conseguimos identificar suas necessidades. Logo depois o término desse tópico a equipe definiu os requisitos funcionais e não funcionais, as documentações a serem feito durante o projeto e por último o grupo explicou sobre os resultados esperados com o projeto e o que espera de aprendizagem com os mesmo. 
+Após um email em que o professor detalhou o que precisava na proposta, a equipe Themyscira decidiu reformular a proposta de projeto. Foi incluído nela a definição do problema a ser resolvido, que depois de muita discussão decidimos focar nas dificuldades em que os agricultores têm para vender seus produtos e com isso conseguimos identificar suas necessidades. Logo após o término desse tópico, a equipe definiu os requisitos funcionais e não funcionais, as documentações a serem feitas durante o projeto e por último o grupo explicou sobre os resultados esperados com o projeto e o que espera de aprendizagem com os mesmo. 
 
 
 
@@ -41,11 +41,11 @@ Após um email e que o professor detalhou o que precisava na proposta, a equipe 
 
 Criação do protótipo na plaforma Figma, onde:
 
-Daniela : Tela de perfil de feirante e usuario comnsumidor em potêncial
+Daniela : Tela de perfil de feirante e usuário comnsumidor em potêncial
 
-Giovana : Tela de ajuda
+Giovana : Tela de ajuda e Favoritos
 
-Hérya : Tela de Favoritos e busca
+Hérya : Tela de Categorias e busca
 
 Lorrany: Tela de cadastro/Login
 
@@ -149,9 +149,9 @@ A equipe planejou o que cada uma ia fazer durante a proxima sprint. Tudo está d
 
 A equipe decidiu fazer pareamentos para que houvesse melhor redimento de produção, os pareamentos ficou:
 
-- Daniela e Hérya: A issue esclhida foi do Front-end onde as duas fizeram a tela de escolha de perfil.
-- Daniela e Lorrany: Foi decidiu a issue de Front-end onde a Daniela ajudou na criação da tela de perfil.
-- Sara e Giovana: A duas ficaram responsaveis por dockerizar todo o ambiente do Back-end. 
+- Daniela e Hérya: A issue escolhida foi do Front-end onde as duas fizeram a tela de escolha de perfil.
+- Daniela e Lorrany: Foi decidida a issue de Front-end onde a Daniela ajudou na criação da tela de perfil.
+- Sara e Giovana: A duas ficaram responsáveis por dockerizar todo o ambiente do Back-end. 
 
 ### Review
 Todos os membros da equipe prepararam suas máquinas com as instalações necessárias à construção do frontend da aplicação. Assim, todas as integrantes contam com as mesmas versões de pacotes e frameworks, tais como yarn e expo.
@@ -183,18 +183,18 @@ Pareamentos:
 
 ### Review
 
-- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose,conseguiu arruma e fazer as migrações, outro problema encontrado foi de codigo no metodo post e ela não conseguiu arrumar. Ela em conjunto com a Lorrany arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
+- Daniela: foi fazer um teste de criação de cadastro de usuario porém não estava conseguindo fazer as migrações no banco criado. Ela percebeu que o problema era no docker-compose, conseguiu arrumar e fazer as migrações. Outro problema encontrado foi de código no método post e ela não conseguiu arrumar. Ela, em conjunto com a Lorrany, arrumou o site para ser entregue para o professor e revisou com a Lorrany o Documento de Arquitetura.
 
-- Giovana:Ajudou no problema do gerenciamento de bancos de dados.
+- Giovana: Ajudou no problema do gerenciamento de bancos de dados.
 
-- Hérya:Ela percebeu outro erro encontrado no sistema de gerenciamento de banco de dados e junto com Giovana e Sara tentaram arrumar. Conseguiram e para teste criaram um usuario.
+- Hérya: Ela percebeu outro erro encontrado no sistema de gerenciamento de banco de dados e junto com Giovana e Sara tentaram arrumar. Conseguiram e para teste criaram um usuario.
 
-- Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar fez a issue de cadastro e login no front-end e ajudou no site. Revisou o Documento de Arquitetura com a Daniela.
+- Lorrany: Sabendo do problema encontrado pela Daniela tentou ajudar porém sem sucesso. Para adiantar, fez a issue de cadastro e login no front-end e ajudou no site. Revisou o Documento de Arquitetura com a Daniela.
 
 - Sara: Ajudou no problema do gerenciamento de bancos de dados.
 
-### Conclução
-Sprint não foi concluida por causa dos problemas encontrados, a equipe continuará com essa issue até conseguir concluir tudo.
+### Conclusão
+Sprint não foi concluída por causa dos problemas encontrados, a equipe continuará com essa issue até conseguir concluir tudo.
 
 
 
