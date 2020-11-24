@@ -189,7 +189,7 @@ Resultado gerado, através do documento Product backlog, é a criação do Sprin
 Devido a metodologia escolhida, a equipe optou pelo uso da Arquitetura Evolutiva, uma vez que é preciso que o design se adapte a novos requisitos e funcionalidades que possam surgir ao longo do desenvolvimento da aplicação. O padrão de Arquitetura Evolutiva engloba princípios que garantem a incrementalidade da arquitetura do projeto.
 - Prática:
 
-A equipe escolheu utilizar a Arquitetura de Microsserviços por ser uma abordagem utilizada na criação de aplicações e por ser compatível com a metodologia ágil. Além disso, a Arquitetura de Microsserviços é um modelo muito utilizado ultimamente, o que facilita a procura por referências.
+Ao longo do desenvolvimento do projeto, a equipe decidiu utilizar o modelo MVC (Model, View, Controller) como arquitetura do aplicativo por se tratar de uma aplicação de menor porte e pela maior facilidade na adição de novos recursos. 
 - Papéis e responsabilidades:
 
 Como citado anteriormente, foi decidido que todos os membros da equipe desempenham o papel de Scrum Team.
