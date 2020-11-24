@@ -172,7 +172,7 @@ Sprint concluida no tempo determinado.
 <img alt = "Escolha de Perfil" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/s6_escolha_de_perfil.jpg" width = "200"/>
 <img alt = "Escolha de Perfil" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/s6_visualizar_dados.jpg" width = "200"/>
 
-## Sprint 7 (11/11 - _Ainda em aberto_)
+## Sprint 7 (11/11 - 20/11)
 
 ### Planning
 
@@ -193,8 +193,19 @@ Pareamentos:
 
 - Sara: Ajudou no problema do gerenciamento de bancos de dados.
 
+#### Atualização 23/11
+- Giovana, Herya e Sara: Fizeram um pareamento e conseguiram terminar suas issues no dia 20/11. Encontraram problemas por não estarem ambientadas às tecnologias que estão sendo utilizadas. 
+
+- Lorrany e Daniela: Conseguiram finalizar a issue de login mas ainda precisam trabalhar mais na issue de cadastro de usuário.
+
 ### Conclusão
-Sprint não foi concluída por causa dos problemas encontrados, a equipe continuará com essa issue até conseguir concluir tudo.
+Seguindo a recomendação do professor, decidimos fechar a sprint com débitos técnicos. Conseguimos contornar várias situações adversas que surgiram ao longo dessa sprint, e mesmo que não tenhamos conseguido finalizar tudo a tempo, estamos orgulhosas do progresso que fizemos. Percebemos que a programação em pares nos auxilia muito no rendimento do projeto. 
+
+## Sprint 8 (20/11 - 25/11)
+### Planning
+- Daniela e Lorrany: Terminar a issue que está em débito técnico e a issue de busca de bancas por nome ou produto.
+- Sara: trabalhar em cima do armazendamento de imagens no banco de dados.
+- Giovana e Hérya: Trabalhar na issue de visualização dos dados e na de produtos de uma banca.
 
 
 
