@@ -8,6 +8,7 @@
 | 10/11/2020 | 0.4 | Tópico 1| Lorrany Oliveira |
 | 11/11/2020 | 0.5 | Tópico 4| Sara Campos |
 | 18/11/2020 | 1.0 | Revisão Geral| Daniela Soares e Lorrany Oliveira |
+| 25/11/2020 | 1.1 | Revisão| Hérya Rodrigues |
 
 
 
@@ -61,25 +62,8 @@ São restrições de arquitetura:
 * Banco de dados relacional fazendo uso de PostgreSQL.
 * Possuir uma API que siga os princípios REST.
 
-## 4. Visão de casos de uso
 
-No diagrama, observa-se um modelo simplificado de casos de uso. São definidos os dois tipos de usuários como atores e as respectivas ações que eles poderão realizar dentro do aplicativo.  
-
-![Diagrama de casos de uso](https://i.ibb.co/kg3jqhc/casos-de-uso.png)
-  
-| Caso de uso | Ator | Descrição |
-| ------------|------|-----------|
-| Fazer login | Usuários consumidor e feirante | Ocorre quando o usuário consumidor/feirante deseja entrar na aplicação |
-| Cadastrar perfil | Usuários consumidor e feirante | Ocorre quando o usuário consumidor/feirante deseja se cadastrar na aplicação |
-| Escolher tipo de perfil | Usuários consumidor e feirante | Ocorre quando o usuário deseja definir seu tipo de perfil como consumidor ou feirante |
-| Cadastrar banca | Usuário feirante | Ocorre quando o usuário feirante deseja cadastrar sua banca na aplicação |
-| Adicionar/remover produtos | Usuário feirante| Permite que o usuário feirante adicione/remova produtos da tela da banca |
-| Visualizar banca | Usuário consumidor | Permite que o usuário consumidor veja a banca, seus produtos e informações de contato |
-| Adicionar/remover dos favoritos | Usuário consumidor | Permite que o usuário consumidor adicione ou remova suas bancas como favoritas |
-| Buscar banca | Usuários consumidor e feirante | Permite que ambos usuários façam busca de bancas pelo nome |
-| Localizar bancas próximas | Usuários consumidor e feirante | Permite que ambos usuários vejam as bancas mais próximas da região administrativa escolhida |
-
-## 5. Visão Lógica
-### 5.1 Diagrama de Pacotes
+## 4. Visão Lógica
+### 4.1 Diagrama de Pacotes
 ![Front](https://i.ibb.co/k92QktX/Vis-o-L-gica-Front.jpg)  
 ![Back](https://i.ibb.co/hHBhxBP/Vis-o-L-gica-Back.jpg)
