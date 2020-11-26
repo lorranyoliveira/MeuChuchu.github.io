@@ -62,8 +62,25 @@ São restrições de arquitetura:
 * Banco de dados relacional fazendo uso de PostgreSQL.
 * Possuir uma API que siga os princípios REST.
 
+# 4. História de usuário
 
-## 4. Visão Lógica
-### 4.1 Diagrama de Pacotes
+Os dois tipos de usuários possuem acessos similares dentro do aplicativo, sendo que, a diferença essencial é de que o usuário feirante além do login, cadastro, opção de editar perfil, acesso às categorias, à busca e às bancas, terá a  opção de criar/gerenciar sua própria banca. 
+
+| Usário | História |
+| --- | --- |
+| Usuários consumidor e feirante |	Consumidor/feirante deseja entrar na aplicação |
+| Usuários consumidor e feirante |	Consumidor/feirante deseja se cadastrar na aplicação |
+|	Usuários consumidor e feirante |	Usuário deseja definir seu tipo de perfil como consumidor ou feirante |
+| Usuário feirante |	Feirante deseja cadastrar sua banca na aplicação |
+| Usuário feirante | Feirante deseja adicionar/remover produtos da tela da banca | 
+| Usuários consumidor e feirante | Consumidor/feirante deseja visualizar a banca, seus produtos e informações de contato |
+|	Usuário consumidor |	Consumidor deseja adicionar ou remover suas bancas como favoritas |
+|	Usuários consumidor e feirante |	Ambos desejam fazer buscas de bancas pelo nome |
+
+
+## 5. Visão Lógica
+### 5.1 Diagrama de Pacotes
 ![Front](https://i.ibb.co/k92QktX/Vis-o-L-gica-Front.jpg)  
 ![Back](https://i.ibb.co/hHBhxBP/Vis-o-L-gica-Back.jpg)
+
+
