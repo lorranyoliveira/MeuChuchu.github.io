@@ -166,7 +166,7 @@ Todos os membros da equipe prepararam suas máquinas com as instalações necess
 
 - Sara: Fez a parte do documento de arquitetura, e fez a dockerização.
 
-### Conclução
+### Conclusão
 Sprint concluida no tempo determinado.  
 ### Resultados
 <img alt = "Escolha de Perfil" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/s6_escolha_de_perfil.jpg" width = "200"/>
@@ -204,16 +204,69 @@ Seguindo a recomendação do professor, decidimos fechar a sprint com débitos t
 ## Sprint 8 (20/11 - 25/11)
 ### Planning
 - Daniela e Lorrany: Terminar a issue que está em débito técnico e a issue de busca de bancas por nome ou produto.
-- Sara: trabalhar em cima do armazendamento de imagens no banco de dados.
-- Giovana e Hérya: Trabalhar na issue de visualização dos dados e na de produtos de uma banca.
 
+- Sara: trabalhar em cima do armazendamento de imagens no banco de dados e a issue de visualização de produtos das bancas.
 
+- Giovana e Hérya: Trabalhar na issue de visualização dos dados das bancas.
 
+### Review
 
+- Daniela: 
 
+- Giovana: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
 
+- Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
 
+- Lorrany: 
 
+- Sara: 
+
+### Conclusão
+O atraso que tivemos da última sprint e o cadastro de imagens gerou um atraso significativo no nosso projeto. Esperamos aproveitar melhor o tempo a partir da próxima semana.
+
+## Sprint 9/10 (25/11 - 02/12)
+### Planning
+- Daniela e Lorrany: 
+
+- Sara: 
+
+- Giovana e Hérya: Trabalhar na issue de visualização dos dados das bancas.
+
+Foi decidido que as issues seriam realizadas sem a parte de imagens retiradas do banco de dados, ou seja, utilizando imagens estáticas, para que não houvesse mais acumulo de débito técnico. Além disso, foi necessário abrirmos mão de algumas funcionalidades pois o nosso prazo não será o suficiente para desenvolver tudo que propusemos inicialmente.
+
+### Review
+- Daniela e Lorrany: 
+
+- Sara: 
+
+- Giovana e Hérya: Finalizaram sua issue (visualização dos dados das bancas) no dia 29/11. Com isso, iniciaram a issue de visualização, cadastro e exclusão de produtos. A parte de visualização ficou pronta também no dia 29/11 e o cadastro e exclusão ficaram prontos no dia 30/11. No dia 1º/12 iniciaram uma revisão geral de toda a documentação do projeto.
+
+### Conclusão
+### Resultados:
+#### Visualizar dados das bancas
+<img alt = "vdb1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb1.jpeg" width = "200"/>
+<img alt = "vdb2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb2.jpeg" width = "200"/>
+<img alt = "vdb3" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb3.jpeg" width = "200"/>
+
+#### Visualizar produtos
+<img alt = "vp1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vp1.jpeg" width = "200"/>
+<img alt = "vp2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vp2.jpeg" width = "200"/>
+
+#### Cadastrar produtos
+<img alt = "ap1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap1.jpeg" width = "200"/>
+<img alt = "ap2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap2.jpeg" width = "200"/>
+<img alt = "ap3" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap3.jpeg" width = "200"/>
+<img alt = "ap4" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap4.jpeg" width = "200"/>
+
+#### Excluir produtos
+<img alt = "ep0" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep0.jpeg" width = "200"/>
+<img alt = "ep1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep1.jpeg" width = "200"/>
+<img alt = "ep2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep2.jpeg" width = "200"/>
+<img alt = "ep3" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep3.jpeg" width = "200"/>  
+
+Todas as páginas estão conectadas com o banco de dados e fazendo os requests corretamente:
+
+<img alt = "db" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/db.png" width = "450"/>
 
 
 
