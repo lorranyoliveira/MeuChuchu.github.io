@@ -9,6 +9,7 @@
 | 11/11/2020 | 0.5 | Tópico 4| Sara Campos |
 | 18/11/2020 | 1.0 | Revisão Geral| Daniela Soares e Lorrany Oliveira |
 | 25/11/2020 | 1.1 | Revisão| Hérya Rodrigues |
+| 01/12/2020 | 1.2 | Atualizando tópico 5 | Giovana Dionisio
 
 
 
@@ -80,7 +81,13 @@ Os dois tipos de usuários possuem acessos similares dentro do aplicativo, sendo
 
 ## 5. Visão Lógica
 ### 5.1 Diagrama de Pacotes
-![Front](https://i.ibb.co/k92QktX/Vis-o-L-gica-Front.jpg)  
-![Back](https://i.ibb.co/hHBhxBP/Vis-o-L-gica-Back.jpg)
+#### Front-end
+<img alt = "front" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/Diagramas/VisãoLógica-FrontATUALIZADO.jpg" width = "550"/>
+  
+#### Back-end
+<img alt = "back" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/Diagramas/VisãoLógica-BackATUALIZADO.jpg" width = "550"/>
 
+### 5.2 Diagrama simplificado da arquitetura do banco de dados
+#### Back-end
+<img alt = "back" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/Diagramas/arquitetura_banco.jpg" width = "550"/>
 
