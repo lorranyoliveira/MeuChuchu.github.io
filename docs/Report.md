@@ -213,9 +213,7 @@ Seguindo a recomendação do professor, decidimos fechar a sprint com débitos t
 
 - Daniela: 
 
-- Giovana: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
-
-- Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
+- Giovana e Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
 
 - Lorrany: 
 
