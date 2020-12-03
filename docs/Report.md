@@ -37,7 +37,7 @@ Após um email em que o professor detalhou o que precisava na proposta, a equipe
 
 
 
-## Sprint 2 (14/10 - 21/10)
+## Sprint 2 (07/10 - 21/10)
 
 Criação do protótipo na plaforma Figma, onde:
 
@@ -213,9 +213,7 @@ Seguindo a recomendação do professor, decidimos fechar a sprint com débitos t
 
 - Daniela: 
 
-- Giovana: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
-
-- Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
+- Giovana e Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
 
 - Lorrany: 
 
