@@ -143,5 +143,5 @@ Foi necessário retirar algumas funcionalidades que estavam planejadas no iníci
 
 
 ## Agradecimentos:
-Nós da equipe Themyscira gostaríamos de agradecer ao professor George pelo apoio, disponibilidade, feedback, sugestões e todo o processo de aprendizagem fornecido por sua metodologia.# Trabalho em equipe 02
+Nós da equipe Themyscira gostaríamos de agradecer ao professor George pelo apoio, disponibilidade, feedback, sugestões e todo o processo de aprendizagem fornecido por sua metodologia.
 
