@@ -211,14 +211,14 @@ Seguindo a recomendação do professor, decidimos fechar a sprint com débitos t
 
 ### Review
 
-- Daniela: Sobre o debito tecnico de cadastro, Lorrany e ela conseguiram arrumar issue e passaram para a issue da semana que era sobre a tela de busca por banca ou produto. Essa tela foi concluida com algumas resalvas.
+- Daniela: Sobre o débito técnico de cadastro, Lorrany e ela conseguiram arrumar a issue e passaram para a issue da semana, que era sobre a tela de busca por banca ou produto. Essa tela foi concluida com algumas ressalvas.
 
 *1- A busca é feita somente por nome da banca, elas tentaram fazer a busca também por categoria de banca, porém quando colocarava a variavel category no método toUpperCase() para transforma as letras maisuculas e comparar com o texto inserido, dava erro pois a category é um array de strings.
-*2-A imagem ficou estática pois ainda havia imagem de banca no banck.
+*2-A imagem ficou estática pois ainda havia imagem de banca no back.
 
 - Giovana e Hérya: Devido o problema com as imagens, não conseguiu iniciar a sua issue, que estava diretamente ligada ao uso de fotos para o perfil da banca. Por isso, sua issue ficou como débito técnico para a próxima sprint.
 
-- Lorrany: ELa pareou com a Dani para fazer a parte de cadastro e busca, depois Lorrany ficou responsavel na criação da NavBar e da conexão das telas. Sobre as conexões das telas ficou faltando o acesso do login e cadastro para aprecer a Navbar, por isso essa issue ficou com debito tecnico até a conexão do login e cadastro que serão feitas na proxima sprint.
+- Lorrany: ELa pareou com a Dani para fazer a parte de cadastro e busca, depois Lorrany ficou responsável na criação da NavBar e da conexão das telas. Sobre as conexões das telas, ficou faltando o acesso do login e cadastro para aparecer a Navbar, por isso essa issue ficou com débito técnico até a conexão do login e cadastro que serão feitas na proxima sprint.
 
 
 - Sara: Ela fez todo a logica de armazenamento das imagens no banco de dados e começou a conectar o back com front para visualizar produtos, esse ultimo ficou com debito tecnico, enquanto ela fazia essas issues, fazia também os testes exploratorios e refatorou algumas partes do codigo para que pegasse a imagem do banco. 
@@ -237,7 +237,7 @@ O atraso que tivemos da última sprint e o cadastro de imagens gerou um atraso s
 Foi decidido que as issues seriam realizadas sem a parte de imagens caso a Sara não coseguisse  adiciona-las no banco de dados, para que não houvesse mais acumulo de débito técnico. Além disso, foi necessário abrirmos mão de algumas funcionalidades pois o nosso prazo não será o suficiente para desenvolver tudo que propusemos inicialmente.
 
 ### Review
-- Daniela e Lorrany: Elas fizeram o login, houve muitos problemas na logica do login no banco em que a Sara ajudou a arrumar, para adiantar as coisas a Sara fez a conexão do banco com a tela de cadastro, após arrumar esse problema, o login agora podia ser feito pelo front.Sobre o debito tecnico da Navbar houve um problema para saber quando o usuario estaria logado então a Lorrany conseguiu organizar a Navbar e o débito tecnco foi concluido e fizeram testes exploratorios.
+- Daniela e Lorrany: Elas fizeram o login, houve muitos problemas na lógica do login no banco, os quais a Sara ajudou a arrumar. Para adiantar as coisas, a Sara fez a conexão do banco com a tela de cadastro. Após arrumar esse problema, o login agora podia ser feito pelo front. Sobre o débito técnico da Navbar, houve um problema para saber quando o usuário estaria logado, então a Lorrany conseguiu organizar a Navbar e o débito técnco foi concluído, e então fizeram testes exploratórios.
 
 - Sara: Ajudou a Dani e a Lorrany no login, fez a conexão do cadastro, refatorou o codigo e testes exploratorios.
 
