@@ -6,5 +6,6 @@
 - [Roadmap](/roadmap.md)
 - [Backlog](/backlog.md)
 - [Trabalho em Equipe 01](/PlanejamentoProjeto.md) 
+- [Trabalho em Equipe 02](/TE2.md)
 - [Report](/Report.md)
 
