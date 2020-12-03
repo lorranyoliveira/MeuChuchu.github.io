@@ -37,7 +37,7 @@ Após um email em que o professor detalhou o que precisava na proposta, a equipe
 
 
 
-## Sprint 2 (14/10 - 21/10)
+## Sprint 2 (07/10 - 21/10)
 
 Criação do protótipo na plaforma Figma, onde:
 
