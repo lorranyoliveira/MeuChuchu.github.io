@@ -245,22 +245,23 @@ Foi decidido que as issues seriam realizadas sem a parte de imagens caso a Sara 
 
 ### Conclusão
 ### Resultados:
-#### Visualizar dados das bancas
+#### Giovana e Hérya 
+##### Visualizar dados das bancas
 <img alt = "vdb1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb1.jpeg" width = "200"/>
 <img alt = "vdb2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb2.jpeg" width = "200"/>
 <img alt = "vdb3" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vpb3.jpeg" width = "200"/>
 
-#### Visualizar produtos
+##### Visualizar produtos
 <img alt = "vp1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vp1.jpeg" width = "200"/>
 <img alt = "vp2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/vp2.jpeg" width = "200"/>
 
-#### Cadastrar produtos
+##### Cadastrar produtos
 <img alt = "ap1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap1.jpeg" width = "200"/>
 <img alt = "ap2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap2.jpeg" width = "200"/>
 <img alt = "ap3" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap3.jpeg" width = "200"/>
 <img alt = "ap4" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ap4.jpeg" width = "200"/>
 
-#### Excluir produtos
+##### Excluir produtos
 <img alt = "ep0" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep0.jpeg" width = "200"/>
 <img alt = "ep1" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep1.jpeg" width = "200"/>
 <img alt = "ep2" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/ep2.jpeg" width = "200"/>
@@ -269,10 +270,3 @@ Foi decidido que as issues seriam realizadas sem a parte de imagens caso a Sara 
 Todas as páginas estão conectadas com o banco de dados e fazendo os requests corretamente:
 
 <img alt = "db" src="https://raw.githubusercontent.com/lorranyoliveira/MeuChuchu.github.io/gh-pages/docs/images/resultados_S9/db.png" width = "450"/>
-
-
-
-
-
-
-
